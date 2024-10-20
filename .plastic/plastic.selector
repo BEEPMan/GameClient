@@ -1,0 +1,4 @@
+repository "GameClient@kevin_996339@cloud"
+  path "/"
+    br "/main"
+    co "/main"
